@@ -1,5 +1,4 @@
-# rishavbothra
-My Portfolio
+
 <h1 align="center">Hi 👋, I'm Rishav Bothra</h1>
 <h3 align="center">🚀 CSE Student | AI & ML Enthusiast | Problem Solver</h3>
 
